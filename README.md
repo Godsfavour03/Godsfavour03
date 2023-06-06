@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Godsfavour03
+- 👋 Hi, I’m Godsfavour
 - 👀 I’m interested in Fullstack Web development 
 - 📫 Reach me at +2348169704901 
 
